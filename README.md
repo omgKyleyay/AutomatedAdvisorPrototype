@@ -1,6 +1,6 @@
 # AutomatedAdvisorPrototype
 Note: You must currently be an enrolled Barry Student to have full functionality of this program.
-However, a shrot video of the program in action from a student's POV is included.
+However, a short video of the program in action from a student's POV is included.
 
 	Unofficial, undergraduate transcripts play a key role in keeping a student on track for graduation. This transcript, which lists all the courses a student has enrolled in since starting their college education as well as their final grade and the term in which it was taken, assists the undergraduate’s advisor(s) plan the student’s academic schedule in accordance to the curriculum of the enrolled program. Without such a resource, it would be quite a chore keeping track of all courses that a student has passed, failed, need to retake, or needs to enroll in to complete the requirements of their major.
 	As important as the transcript is, Barry University currently does not offer a way to readily audit an undergraduate’s transcript and display the student’s courses in organized sections based on a particular field of study, i.e. Theology, English, and Mathematics. With the courses being grouped together based on a passing grade and a common title, a student and their advisors can quickly determine which classes are needed for the program completion and also which courses must be retaken due to an unfavorable grade. 
